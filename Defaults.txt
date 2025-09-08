@@ -1,0 +1,18 @@
+Defaults 
+
+$1.0001
+@3.472847
+POL
+< -0.01%
+$134,000,000,000
+5.56%
+3.44%
+Fixed 
+Fixed 
+Contract: 0x472dbd86732d57a3a0d9db441c6df91a3e0f298e
+Publish
+05.31.2024
+09.08.2025
+Deploy
+K
+99
